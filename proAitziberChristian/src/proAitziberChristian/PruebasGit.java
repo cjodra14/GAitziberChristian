@@ -5,6 +5,6 @@ import java.awt.EventQueue;
 public class PruebasGit {
 
 	public static void main(String[] args) {
-		System.out.println("Cuarto Mensaje");
+		System.out.println("Quinto Mensaje");
 	}
 }
